@@ -1,5 +1,6 @@
 {
   "voice": "Bob",
   "greeting": "Yellow",
-  "speed": "chipmunk"
+  "speed": "chipmunk",
+  "syn": "truck"
 }
