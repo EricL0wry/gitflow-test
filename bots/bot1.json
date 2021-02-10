@@ -2,5 +2,5 @@
   "voice": "Bob",
   "greeting": "Yellow",
   "speed": "chipmunk",
-  "syn": "truck"
+  "syn": ["truck", "motorcycle", "skateboard"]
 }
