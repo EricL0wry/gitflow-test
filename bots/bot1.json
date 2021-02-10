@@ -1,10 +1,6 @@
 {
   "voice": "Bob",
   "greeting": "Yellow",
-<<<<<<< HEAD
-  "speed": "chipmunk"
-=======
   "speed": "chipmunk",
   "syn": ["truck", "motorcycle", "skateboard"]
->>>>>>> qa
 }
